@@ -1,7 +1,7 @@
 {
   "name": "cripto-react",
   "private": true,
-  "homepage": "http://LMsqz.github.io/Cotizador-Cripto",
+  "homepage": "http://lmsqz.github.io/Cotizador-Cripto",
   "version": "0.0.0",
   "scripts": {
     "predeploy": "npm rum build",
